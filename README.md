@@ -15,7 +15,7 @@
 
 ---
 
-### Checkout the live website [here](#).
+### Checkout the live website [here](https://help-web.netlify.app/).
 
 ---
 
